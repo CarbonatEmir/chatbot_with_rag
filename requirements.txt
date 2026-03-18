@@ -1,0 +1,8 @@
+streamlit
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pgvector
+numpy
+ollama
+PyPDF2
